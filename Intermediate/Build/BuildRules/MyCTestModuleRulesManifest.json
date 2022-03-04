@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\UE\\MyCTest\\Source\\MyCTest\\MyCTest.Build.cs",
-		"D:\\UE\\MyCTest\\Source\\MyCTest.Target.cs",
-		"D:\\UE\\MyCTest\\Source\\MyCTestEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}

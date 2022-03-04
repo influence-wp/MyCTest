@@ -1,2 +1,0 @@
-D:\UE\MyCTest\Intermediate\Build\Win64\UE4Editor\Development\MyCTest\Definitions.MyCTest.h
-D:\UE\MyCTest\Source\MyCTest\MyCTest.h
