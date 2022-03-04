@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyCTest",
+			"Path": "D:\\UE\\MyCTest\\Source\\MyCTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyCTestEditor",
+			"Path": "D:\\UE\\MyCTest\\Source\\MyCTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
